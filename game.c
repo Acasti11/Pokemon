@@ -217,3 +217,7 @@ void Initialize(JOKO_ELEMENTUA *jokalaria, JOKO_ELEMENTUA *fondoa, MAPAK *mapak,
     fondoa->id = irudiaKargatu(F_ROUTE_1);
     (void)matrizInitf(mapak, mapaAukera);
 }
+
+int suma(){
+    return 0;
+}
